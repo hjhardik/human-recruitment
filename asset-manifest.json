@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/human-recruitment/static/css/main.30d85a8d.chunk.css",
+    "main.js": "/human-recruitment/static/js/main.80d7f563.chunk.js",
+    "main.js.map": "/human-recruitment/static/js/main.80d7f563.chunk.js.map",
+    "runtime-main.js": "/human-recruitment/static/js/runtime-main.832d8fde.js",
+    "runtime-main.js.map": "/human-recruitment/static/js/runtime-main.832d8fde.js.map",
+    "static/css/2.979034dc.chunk.css": "/human-recruitment/static/css/2.979034dc.chunk.css",
+    "static/js/2.700c2978.chunk.js": "/human-recruitment/static/js/2.700c2978.chunk.js",
+    "static/js/2.700c2978.chunk.js.map": "/human-recruitment/static/js/2.700c2978.chunk.js.map",
+    "index.html": "/human-recruitment/index.html",
+    "static/css/2.979034dc.chunk.css.map": "/human-recruitment/static/css/2.979034dc.chunk.css.map",
+    "static/css/main.30d85a8d.chunk.css.map": "/human-recruitment/static/css/main.30d85a8d.chunk.css.map",
+    "static/js/2.700c2978.chunk.js.LICENSE.txt": "/human-recruitment/static/js/2.700c2978.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.832d8fde.js",
+    "static/css/2.979034dc.chunk.css",
+    "static/js/2.700c2978.chunk.js",
+    "static/css/main.30d85a8d.chunk.css",
+    "static/js/main.80d7f563.chunk.js"
+  ]
+}
